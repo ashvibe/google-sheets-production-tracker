@@ -1,0 +1,15 @@
+# Google Apps Script
+.clasp.json
+appsscript.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Private config — never commit real passwords or company data
+config.private.gs
+*.private.*
